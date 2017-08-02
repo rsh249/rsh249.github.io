@@ -17,7 +17,7 @@ Currently, I am a Gerstner Scholar in Computational Biology and Bioinformatics a
 
 I am broadly interested in trying to illuminate the processes and factors determining global patterns of biodiversity. Everything from individual species distributions to the great latitudinal species diversity gradients and the distribution of functional traits are the fascinating result of biological processes and the environment. 
 
-### Projects
+# Projects
 
 ## Paleoclimate
 
