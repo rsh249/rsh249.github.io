@@ -3,7 +3,7 @@
 Contact Info:
 
 Rob Harbert, 
-rharbert@amnh.org
+rharbert@amnh.org\n
 
 Gerstner Scholar in Computational Biology and Bioinformatics
 
