@@ -1,3 +1,18 @@
+## Welcome!
+
+Contact Info:
+Rob Harbert
+Gerstner Scholar in Computational Biology and Bioinformatics
+Sackler Institute for Comparative Genomics
+American Museum of Natural History
+79th St. & Central Park West
+New York, NY 10024
+(540)354-8104 (cell)
+(212) 769-5100 Ext. 7528 (Office)
+rharbert@amnh.org
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/rsh249/rsh249.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
