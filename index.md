@@ -1,8 +1,9 @@
 <center>
-## Welcome!
 
-Contact Info:
 
+## Welcome!<br>
+
+Contact Info:<br>
 Rob Harbert, 
 rharbert@amnh.org <br>
 Sackler Institute for Comparative Genomics <br>
