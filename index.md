@@ -3,7 +3,7 @@
 Contact Info:
 
 Rob Harbert, 
-rharbert@amnh.org\n
+rharbert@amnh.org
 
 Gerstner Scholar in Computational Biology and Bioinformatics
 
@@ -20,6 +20,9 @@ New York, NY 10024
 (212) 769-5100 Ext. 7528 (Office)
 
 
+## Biosketch: Spatial Biodiversity Informatics -- Data mining for the past, present, and future of ecological change on earht.
+
+Insert sketch text there.
 
 
 
