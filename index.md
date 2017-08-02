@@ -3,9 +3,8 @@
 Contact Info:
 
 Rob Harbert, 
-rharbert@amnh.org
-
-Gerstner Scholar in Computational Biology and Bioinformatics
+rharbert@amnh.org <br>
+Gerstner Scholar in Computational Biology and Bioinformatics <br>
 
 Sackler Institute for Comparative Genomics
 
