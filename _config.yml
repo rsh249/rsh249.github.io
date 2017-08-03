@@ -1,8 +1,5 @@
+title: Dr. Robert S. Harbert, Ph.D.
 theme: jekyll-theme-cayman
-og:
-    site_name: Dr. Robert S. Harbert, Ph.D.
-    description: Public page
-    title: Personal page of Rob Harbert
 gems:
   - jekyll-seo-tag
 twitter:
@@ -13,3 +10,6 @@ social:
     - https://twitter.com/robharbert
     - https://www.linkedin.com/in/robert-harbert-575175129/
     - https://github.com/rsh249
+    - https://scholar.google.com/citations?user=uhRJO5kAAAAJ&hl=en
+
+
