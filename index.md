@@ -1,8 +1,12 @@
+---
+title: Robert S. Harbert, Ph.D.
+layout: post
+---
+
 
 <html>
   <head>
     {% seo %}
-    <title>Robert S. Harbert, Ph.D.</title>
   </head>
 </html>
 
