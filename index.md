@@ -1,3 +1,11 @@
+
+<html>
+  <head>
+    {% include head.html %}
+    {% seo %}
+  </head>
+</html>
+
 <center>
 Contact Info:<br>
 Rob Harbert, 
