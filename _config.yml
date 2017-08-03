@@ -1,9 +1,9 @@
 theme: jekyll-theme-cayman
+site_name: Robert S. Harbert, Ph.D.
 gems:
   - jekyll-seo-tag
 twitter:
   username: robharbert
-
 social:
   name: Rob Harbert
   links:
