@@ -40,7 +40,4 @@ I am broadly interested in trying to illuminate the processes and factors determ
 ## Distribution modeling
 
 
-{% twitter https://twitter.com/jekyllrb maxwidth=500 limit=5 %}
-
-
 
