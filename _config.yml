@@ -1,7 +1,9 @@
 title: Dr. Robert S. Harbert, Ph.D.
 theme: jekyll-theme-cayman
-gems: [jekyll-plugins]
-
+gems: 
+    - jekyll-seo-tag
+    - jekyll-twitter-plugin
+    
 twitter:
   username: robharbert
 social:
