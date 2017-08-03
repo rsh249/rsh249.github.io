@@ -2,7 +2,7 @@ title: Dr. Robert S. Harbert, Ph.D.
 theme: jekyll-theme-cayman
 gems:
   - jekyll-seo-tag
-  - jekyll-twitter-plugin
+gems: ['jekyll-twitter-plugin']
 
 twitter:
   username: robharbert
