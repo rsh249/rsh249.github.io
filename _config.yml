@@ -4,6 +4,9 @@ gems:
     - jekyll-seo-tag
     - jekyll-twitter-plugin
     
+includ:
+    - Gemfile
+    
 twitter:
   username: robharbert
 social:
