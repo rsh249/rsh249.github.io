@@ -25,6 +25,9 @@ I am broadly interested in trying to illuminate the processes and factors determ
 
 ---
 
+<image src='images/worldmap2.png'>
+
+
 # Projects
 
 ## Paleoclimate
