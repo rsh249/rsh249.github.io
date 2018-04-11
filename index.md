@@ -1,5 +1,6 @@
 <html>
   <head>
+    {% include head.html %}
     {% seo %}
   </head>
 </html>
