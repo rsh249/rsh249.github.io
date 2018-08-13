@@ -7,13 +7,10 @@
 <center>
 Contact Info:<br>
 Rob Harbert, 
-rharbert@amnh.org <br>
-Sackler Institute for Comparative Genomics <br>
-American Museum of Natural History <br>
-79th St. & Central Park West <br>
-New York, NY 10024 <br>
+rharbert@stonehill.edu <br>
+Stonehill College <br>
+Easton, MA <br>
 (540)354-8104 (cell) <br>
-(212) 769-5100 Ext. 7528 (Office) <br>
 </center>
 ---
 
@@ -32,8 +29,6 @@ I am broadly interested in trying to illuminate the processes and factors determ
 # Projects
 
 ## Paleoclimate
-
-
 
 ## aDNA -- Plant community metagenomics
 
