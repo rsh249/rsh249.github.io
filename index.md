@@ -10,8 +10,10 @@ Rob Harbert,
 rharbert@stonehill.edu <br>
 Stonehill College <br>
 Easton, MA <br>
-(540)354-8104 (cell) <br>
+(540)354-8104 (cell) <br><div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-1714-5033" href="https://orcid.org/0000-0002-1714-5033" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-1714-5033</a></div>
+
 </center>
+
 ---
 
 ## Biosketch: Spatial Biodiversity Informatics -- Data mining for the past, present, and future of ecological change on earth.
