@@ -1,5 +1,5 @@
 title: Dr. Robert S. Harbert, Ph.D.
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 gems: 
     - jekyll-seo-tag
     - jekyll-twitter-plugin
