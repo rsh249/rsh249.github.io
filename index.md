@@ -53,7 +53,7 @@ Ancient DNA from plants can be preserved for thousands of years in sediments tha
 
 ## Species Distribution Modeling: Methods for spatial bioinformatics
 
-Modeling of past, present, and future species distributions is essential for understanding the ecological impact of Anthropogenic climate change. The lab is working on methods to streamline and automate the distribution modeling process. Projects include: Estimation of sampling bias and density with parallel computing <a href = 'https://github.com/rsh249/rasterExtras.git'> rasterExtras </a>, and <a href = "https://github.com/oshea-patrick/RSpatial" rapid spatial thinning and bias detection</a>. 
+Modeling of past, present, and future species distributions is essential for understanding the ecological impact of Anthropogenic climate change. The lab is working on methods to streamline and automate the distribution modeling process. Projects include: Estimation of sampling bias and density with parallel computing <a href = 'https://github.com/rsh249/rasterExtras.git'> rasterExtras </a>, and <a href = "https://github.com/oshea-patrick/RSpatial"> rapid spatial thinning and bias detection</a>. 
 
 
 
