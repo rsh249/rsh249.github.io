@@ -22,7 +22,18 @@ Easton, MA <br>
 
 I am a new Assistant Professor at Stonehill College in Easton, MA. I teach Bioinformatics, Botany, and Intro. Biology courses. My current projects include using fossil plant community composition to generate paleoclimate estimates of Late Quaternary climate in Western North America. I am also developing a project to attempt to reconstruct plant communities from ancient DNA extracted from packrat paleomiddens.
 
-I am broadly interested in trying to illuminate the processes determining global patterns of biodiversity. Everything from individual species distributions to the great latitudinal species diversity gradients and the distribution of functional traits are the fascinating result of biological processes and the environment. 
+I am broadly interested in trying to illuminate the processes determining global patterns of biodiversity. Everything from individual species distributions to the great latitudinal species diversity gradients and the distribution of functional traits are the fascinating result of biological processes and the environment.
+
+# Classes and Educational Material
+
+<a href = "https://rsh249.github.io/semester-biology/"> BIO316 </a> -- R Programming for Biologists (<a href = "http://datacarpentry.org/semester-biology/" > A fork of Data-Carpentry for biologists </a> )
+
+
+<a href = "https://rsh249.github.io/bioinformatics"> BIO331 </a> -- Introduction to Bioinformatics
+
+
+<a href = "https://rsh249.github.io/applied_bioinformatics"> BIO332 </a> -- -- Applied Bioinformatics 
+ 
 
 ---
 
@@ -34,7 +45,7 @@ I am broadly interested in trying to illuminate the processes determining global
 
 ## Paleoclimate
 
-Reconstruction paleoclimate from biological community data using CRACLE modeling. Recent publication details a paleoclimate reconstruction from Late Quaternary packrat midden macrofossils from western North America (https://www.openquaternary.com/articles/10.5334/oq.46/). Preprint (https://www.biorxiv.org/content/10.1101/641183v2) and new R package 'cRacle' (https://github.com/rsh249/cRacle) are coming soon.
+Reconstruction paleoclimate from biological community data using CRACLE modeling. Recent publication details a paleoclimate reconstruction from Late Quaternary packrat midden macrofossils from western North America <a href = "https://www.openquaternary.com/articles/10.5334/oq.46/"> here </a>. <a href = 'https://www.biorxiv.org/content/10.1101/641183v2'> Preprint </a> and new R package <a href= 'https://github.com/rsh249/cRacle'> 'cRacle' </a> are coming soon.
 
 ## aDNA -- Plant community metagenomics
 
@@ -42,7 +53,7 @@ Ancient DNA from plants can be preserved for thousands of years in sediments tha
 
 ## Species Distribution Modeling: Methods for spatial bioinformatics
 
-Modeling of past, present, and future species distributions is essential for understanding the ecological impact of Anthropogenic climate change. The lab is working on methods to streamline and automate the distribution modeling process. Projects include: Estimation of sampling bias and density with parallel computing (rasterExtras: https://github.com/rsh249/rasterExtras.git), and rapid spatial thinning and bias detection (https://github.com/oshea-patrick/RSpatial). 
+Modeling of past, present, and future species distributions is essential for understanding the ecological impact of Anthropogenic climate change. The lab is working on methods to streamline and automate the distribution modeling process. Projects include: Estimation of sampling bias and density with parallel computing <a href = 'https://github.com/rsh249/rasterExtras.git'> rasterExtras </a>, and <a href = "https://github.com/oshea-patrick/RSpatial" rapid spatial thinning and bias detection</a>. 
 
 
 
