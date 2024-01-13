@@ -1,60 +1,62 @@
-<html>
-  <head>
-    {% seo %}
-  </head>
-</html>
+# Robert S. Harbert, Ph.D.
+Email: rsh249@cornell.edu
+Phone: 540-354-8104
+LinkedIn: https://www.linkedin.com/in/robharbert 
+Publications: Rob Harbert (0000-0002-1714-5033) - ORCID
+GitHub: https://github.com/rsh249 http://github.com/developingbioinformatics
 
-<center>
-Contact Info:<br>
-Rob Harbert, 
-rharbert@stonehill.edu <br>
-Stonehill College <br>
-Easton, MA <br>
-(540)354-8104 (cell) <br><div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-1714-5033" href="https://orcid.org/0000-0002-1714-5033" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-1714-5033</a></div>
+# Overview
+Solving technical challenges to make better science happen. I am an experienced bioinformatician with expertise in R and python programming, statistics and modeling, and DNA sequencing analysis focused on delivering top tier bioinformatics support and insights for biotechnology platforms. I am experienced in both software service and support and development in bioinformatics. 
 
-<a href = './files/harbert_sCV.pdf'> CV </a>
+# Experience
+## Bioinformatics Scientist – Bruker Cellular Analysis – June 2022 – present
+Critical link between software development and customer support teams. Solve customer issues in bioinformatics pipeline application and data. Conducted root cause investigation and lead escalation team meetings to solve critical customer use issues in an NGS antibody discovery pipeline in 6 months. Analysis of single cell BCR-seq and integration with fluorescent assay and other instrument data.
+Skills: customer support, software support, Salesforce case and work order management, NGS and Sanger data analysis and QC, RNAseq, data visualization, antibody discovery, molecular biology.
+## Genomic Data Science, Sr. Specialist – PharmaLex – 2021-2022
+Building bioinformatics solutions in a fast paced consulting team. Programming solutions in pharmaceutical research for statistical genomics (GWAS, meta-analyses, PRS, MR), single cell and bulk RNA-seq including cell type assignments, DE, and trajectory analyis, and clinical data analysis. 
+Skills: R programming, Spark, data visualization, documentation and validation.
+## Assistant Professor of Biology and Bioinformatics – Stonehill College – 2018-2021
+Teaching undergraduate and graduate classes in biology, botany, bioinformatics, statistics, and data analytics. Research in metagenomics, paleogenomics, and nanopore sequencing of environmental DNA. 
+Skills: NGS, nanopore sequencing, DNA extraction and isolation from degraded and non-cellular sources, R and Python programming.
+## Adjunct Professor of Data Analytics — Stonehill College — 2020-2021	
+Statistics and big-data analytics course teaching in the Data Analytics masters degree program. 
+Skills: SAS programming, statistics, big-data analytics, Spark, pyspark.
+## Gerstner Scholar in Computational Biology and Bioinformatics – American Museum of Natural History – 2016-2018
+Postdoctoral scholarly research and consulting on computational projects. Owned research projects focused on ancient DNA, computational methods for metagenomic identification of plants, and computational paleoclimatology. 
+Skills: DNA extraction, metagenomic methods development, modeling and visualization, Linux, HPC, bash scripting.
 
-</center>
+# Volunteer
+Mentor — NECyberteam — 2019-2021 	Advisor for computational projects run by participating faculty. Worked directly with student cyberteam workers 			to guide the scope of work and implementation of technical infrastructure.
+Visiting Scientist — American Museum of Natural History — 2018-2023 	Scientific collaborator and advisory expert in computing and ancient DNA technology.
 
----
+# Education
+Ph.D., Plant Biology – 2016 – Cornell University, Ithaca, NY
+Scholarly research in plant evolutionary ecology and paleoclimatology. Developing CRACLE: https://github.com/rsh249/cRacle 
 
-## Biosketch: Spatial Biodiversity Informatics -- Data mining for the past, present, and future of ecological change on earth.
+B.S. Biology – 2011 – Roanoke College, Salem, VA
 
-I am a new Assistant Professor at Stonehill College in Easton, MA. I teach Bioinformatics, Botany, and Intro. Biology courses. My current projects include using fossil plant community composition to generate paleoclimate estimates of Late Quaternary climate in Western North America. I am also developing a project to attempt to reconstruct plant communities from ancient DNA extracted from packrat paleomiddens.
+# Highlights
+**Programming:** R, python, Spark, bash/shell scripting.
+**Other Tech:** High-performance and cloud computing, R package development, Nextflow, parallelization techniques, Docker, Git, SQL, Unix/Linux operating systems management.
+**Bioinformatics: **Assembly and annotation of antibody sequences, whole genome assembly and variant calling, metagenomic analysis of environmental samples, genomic pipelines, statistical genomics including GWAS, PRS, and MR analyses.
+**Lab Experience:** Molecular biology, DNA extraction, PCR, sequencing technologies including Nanopore devices.
 
-I am broadly interested in trying to illuminate the processes determining global patterns of biodiversity. Everything from individual species distributions to the great latitudinal species diversity gradients and the distribution of functional traits are the fascinating result of biological processes and the environment.
+# Academic Publications
 
-# Classes and Educational Material
+Harbert, R., Cunningham, S.W. and Tessler, M., 2020. Spatial modeling could not differentiate early SARS-CoV-2 cases from the distribution of humans on the basis of climate in the United States. PeerJ, 8, p.e10140.
 
-<a href = "https://rsh249.github.io/semester-biology/"> BIO316 </a> -- R Programming for Biologists (<a href = "http://datacarpentry.org/semester-biology/" > A fork of Data-Carpentry for biologists </a> )
+Moore, G., Tessler, M., Cunningham, S.W., Betancourt, J. and R. Harbert. 2020. Paleo‐metagenomics of North American fossil packrat middens: Past biodiversity revealed by ancient DNA. Ecology and Evolution, 10(5), pp.2530-2544. https://doi.org/10.1002/ece3.6082 
 
+Harbert, R.S., and A. Baryiames. 2019. cRacle: R Tools for Estimating Climate from Vegetation. Applications in Plant Sciences, e11322. https://doi.org/10.1002/aps3.11322
 
-<a href = "https://rsh249.github.io/bioinformatics"> BIO331 </a> -- Introduction to Bioinformatics
+Harbert, R.S., and K.C. Nixon. 2018. Dynamic Quaternary vegetation as a proxy for 50,000 years of climate change in Western North America. Open Quaternary, https://doi.org/10.5334/oq.46  
 
+Harbert, R.S. 2018. Algorithms and database strategy for the reconstruction of plant communities from ancient and environmental DNA. Applications in Plant Sciences, e1034 
 
-<a href = "https://rsh249.github.io/applied_bioinformatics"> BIO332 </a> -- -- Applied Bioinformatics 
- 
+Martinez, C., T.Y.S. Choo, D. Allevato, K. Nixon, W. Crepet, R. Harbert, C. Daghlian. 2016. Rariglanda jerseyensis a new ericalean fossil flower from the Late Cretaceous of New Jersey. Botany 94: 747–758 dx.doi.org/10.1139/cjb-2016-0062  
 
----
+Harbert, R.S., and K.C. Nixon. 2015. Climate reconstruction analysis using coexistence likelihood estimation (CRACLE): A method for the estimation of climate using vegetation. American Journal of Botany, doi:10.3732/ajb.1400500  
 
-<image src='images/worldmap2.png'></image>
+Harbert, R.S., A.H.D. Brown, and J. Doyle. 2014. Climate Niche Modeling in the Perennial Glycine (Leguminosae) Allopolyploid Complex. American Journal of Botany 101(4):710-721.  
 
----
-
-# Projects
-
-## Paleoclimate
-
-Reconstruction paleoclimate from biological community data using CRACLE modeling. Recent publication details a paleoclimate reconstruction from Late Quaternary packrat midden macrofossils from western North America <a href = "https://www.openquaternary.com/articles/10.5334/oq.46/"> here </a>. <a href = 'https://www.biorxiv.org/content/10.1101/641183v2'> Preprint </a> and new R package <a href= 'https://github.com/rsh249/cRacle'> 'cRacle' </a> are coming soon.
-
-## aDNA -- Plant community metagenomics
-
-Ancient DNA from plants can be preserved for thousands of years in sediments that remain cold or low-oxygen (e.g., permafrost and lake sediments). I am currently exploring the analysis of ancient DNA from very dry sources (e.g., packrat paleomiddens). More coming soon...
-
-## Species Distribution Modeling: Methods for spatial bioinformatics
-
-Modeling of past, present, and future species distributions is essential for understanding the ecological impact of Anthropogenic climate change. The lab is working on methods to streamline and automate the distribution modeling process. Projects include: Estimation of sampling bias and density with parallel computing <a href = 'https://github.com/rsh249/rasterExtras.git'> rasterExtras </a>, and <a href = "https://github.com/oshea-patrick/RSpatial"> rapid spatial thinning and bias detection</a>. 
-
-
-
-
+Pysh, L., N. Alexander, L. Swatzyna, and R. Harbert. 2012. Four alleles of AtCESA3 form an allelic series with respect to root phenotype in Arabidopsis thaliana. Physiologia Plantarum 144:369-381.  
