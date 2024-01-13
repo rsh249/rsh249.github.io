@@ -26,8 +26,8 @@ Postdoctoral scholarly research and consulting on computational projects. Owned 
 Skills: DNA extraction, metagenomic methods development, modeling and visualization, Linux, HPC, bash scripting.
 
 # Volunteer
-Mentor — NECyberteam — 2019-2021 	Advisor for computational projects run by participating faculty. Worked directly with student cyberteam workers 			to guide the scope of work and implementation of technical infrastructure.
-Visiting Scientist — American Museum of Natural History — 2018-2023 	Scientific collaborator and advisory expert in computing and ancient DNA technology.
+Mentor — NECyberteam — 2019-2021	Advisor for computational projects run by participating faculty. Worked directly with student cyberteam workers 			to guide the scope of work and implementation of technical infrastructure.
+Visiting Scientist — American Museum of Natural History — 2018-2023	Scientific collaborator and advisory expert in computing and ancient DNA technology.
 
 # Education
 Ph.D., Plant Biology – 2016 – Cornell University, Ithaca, NY
@@ -53,7 +53,7 @@ Harbert, R.S., and K.C. Nixon. 2018. Dynamic Quaternary vegetation as a proxy fo
 
 Harbert, R.S. 2018. Algorithms and database strategy for the reconstruction of plant communities from ancient and environmental DNA. Applications in Plant Sciences, e1034 
 
-Martinez, C., T.Y.S. Choo, D. Allevato, K. Nixon, W. Crepet, R. Harbert, C. Daghlian. 2016. Rariglanda jerseyensis a new ericalean fossil flower from the Late Cretaceous of New Jersey. Botany 94: 747–758 dx.doi.org/10.1139/cjb-2016-0062  
+Martinez, C., T.Y.S. Choo, D. Allevato, K. Nixon, W. Crepet, R. Harbert, C. Daghlian. 2016. Rariglanda jerseyensis a new ericalean fossil flower from the Late Cretaceous of New Jersey. Botany 94: 747–758 dx.doi.org/10.1139/cjb-2016-0062  
 
 Harbert, R.S., and K.C. Nixon. 2015. Climate reconstruction analysis using coexistence likelihood estimation (CRACLE): A method for the estimation of climate using vegetation. American Journal of Botany, doi:10.3732/ajb.1400500  
 
